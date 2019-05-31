@@ -1,5 +1,5 @@
 # e_shop
-It is a web project using distributed database technology to manage supershop's information and inventory
+It is a web project using distributed database technology to manage supershop's information and inventory. The web app will run in different branch. Each branch has its own database. One branch can view others but it does not has writing permission. Only the admin can do that.
 
 # Features
 * Add product
